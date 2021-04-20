@@ -44,7 +44,7 @@ namespace AspWithNUnit
 
             val = validate(num1, num2);
             if (val == "")
-            {
+            {   
                 decimal n1, n2, nTotal;
                 n1 = Convert.ToDecimal(num1);
                 n2 = Convert.ToDecimal(num2);
